@@ -1,6 +1,6 @@
-# bearcat-ui-mode
+# panda
 
-> 基于V套后台UI库
+> 基于vue.js开发的ui库
 
 ## Build Setup
 
